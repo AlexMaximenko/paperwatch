@@ -32,3 +32,5 @@ VIA LANGUAGE-SPECIFIC EXPERTS](ASR/DISTILWHISPER%20EFFICIENT%20DISTILLATION%20OF
 [**Language Model Can Listen While Speaking**](ASR/Language%20Model%20Can%20Listen%20While%20Speaking.md)
 
 [Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems](ASR/Duplex%20Conversation:%20Towards%20Human-like%20Interaction%20in%20Spoken%20Dialogue%20Systems.md)
+
+[SpeechLM: Enhanced Speech Pre-Training with Unpaired Textual Data](ASR/SpeechLM.md)
